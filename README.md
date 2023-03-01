@@ -7,6 +7,7 @@ Dados:
 <div> 	
   <a href="https://github.com/MarcosOliveira404">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=MarcosOliveira404&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosOliveira404&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 Linguagens vistas:
