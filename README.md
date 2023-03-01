@@ -4,6 +4,13 @@ Estudando:
 - 👾 React ...
 
 
+<div> 	
+	<a href="https://github.com/MarcosOliveira404">
+	<img height="180cm" src="htpps://github-readme-stats.vercel.app/api?username=MarcosOliveira404&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+	<img height="180cm" src="htpps://github-readme-stats.vercel.app/api/top-langs/username=MarcosOliveira404&layout=compact&langs_count=16&theme=dark"/>
+</div>
+
+
 Linguagens vistas:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
